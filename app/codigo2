@@ -1,0 +1,299 @@
+    1  ls
+    2  cd py-project/
+    3  ls
+    4  code .
+    5  ll
+    6  python3 hello.py
+    7  ls
+    8  git init
+    9  git ll
+   10  git -al
+   11  ls
+   12  ls -al
+   13  git branch
+   14  git branch -m main
+   15  git branch
+   16  git config --list
+   17  git config --global user.email "willyrc87@hotmail.com"
+   18  git config --list
+   19  git config --global user.name "willyrc87"
+   20  git config --list
+   21  git branch
+   22  git status
+   23  git branch -m "main"
+   24  git branch
+   25  git log
+   26  git branch "main"
+   27  git init
+   28  ls 
+   29  ll
+   30  ~
+   31  cd..
+   32  ls
+   33  ~
+   34  .exit() .
+   35  ./
+   36  cd ..
+   37  ls
+   38  git init
+   39  ls
+   40  cd ..
+   41  ls
+   42  git init
+   43  ls
+   44  cd wrojasce1709/
+   45  ls
+   46  cd py-project/
+   47  all
+   48  ll
+   49  rm hello1.py
+   50  ls
+   51  all
+   52  ll
+   53  git remote add origin git@github.com:wrojasce1709/curso-python-pip.git
+   54  git remote -v
+   55  git add .
+   56  git commit -m "pri primer archivo"
+   57  git status
+   58  git branch
+   59  git push origin main
+   60  git pull origin main
+   61  git conf --list --show-origin
+   62  git push origin main
+   63  git config -l
+   64  pwd
+   65  ~
+   66  cd ..
+   67  ssh-keygen -t rsa -b4096-C "willyrc87@hotmail.com"
+   68  eval $(ssh-agent -s)
+   69  ssh-add ~/.ssh//id_rsa
+   70  git remote
+   71  git remote -v
+   72  ls
+   73  cd py-project/
+   74  ll
+   75  git remote
+   76  git remote -v
+   77  git pull origin main
+   78  cd ..
+   79  ssh-add ~/.ssh/id_rsa
+   80  ls
+   81  cd py-project/
+   82  ls
+   83  ll
+   84  git remote add origin git@github.com:wrojasce1709/curso-python-pip.git
+   85  remote -v
+   86  git remote -v
+   87  git status
+   88  ls
+   89  cd..
+   90  cd ..
+   91  ls
+   92  rm py-project/
+   93  rmdir py-project/
+   94  git rmdir py-project/
+   95  ls
+   96  rmdir py-project
+   97  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
+   98  ls
+   99  cd ..
+  100  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
+  101  ls
+  102  write
+  103  cd wrojasce1709/
+  104  ñs
+  105  ls
+  106  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
+  107  ls
+  108  ssh-keygen -t rsa -b4096-C "willyrc87@hotmail.com"
+  109  pwd
+  110  ~
+  111  .
+  112  ./
+  113  ls
+  114  pwd
+  115  code .
+  116  mkdir py-project
+  117  ls
+  118  touch hello.py
+  119  ls
+  120  rm hello.py 
+  121  ls
+  122  cd py-project/
+  123  touch hello.py
+  124  ls
+  125  code .
+  126  ls
+  127  python3 hello.py 
+  128  git init
+  129  git config --list
+  130  git config --global user.email "willyrc87@hotmail.com"
+  131  git config --global user.name "willyrc87"
+  132  git config --list
+  133  ssh-keygen -t rsa -b4096-C "willyrc87@hotmail.com"
+  134  pwd
+  135  ~
+  136  cd ..
+  137  ssh-keygen -t rsa -b4096-C "willyrc87@hotmail.com"
+  138  git config --list
+  139  ssh-keygen -t rsa -b 4096-C "willyrc87@hotmail.com"
+  140  ssh-keygen -t ed25519 -C "willyrc87@hotmail.com"
+  141  eval $(ssh-agent -s)
+  142  ~
+  143  ssh-add ~/.ssh/id_ed25519
+  144  ls
+  145  cd ..
+  146  ls
+  147  ls -al
+  148  cd ..
+  149  ls
+  150  cd home/
+  151  ls
+  152  ll
+  153  cd wrojasce1709/
+  154  ls
+  155  ll
+  156  cd .ssh/
+  157  ls
+  158  code id_ed25519.pub
+  159  ~
+  160  ls
+  161  ~
+  162  ./
+  163  ls
+  164  cd ..
+  165  ls
+  166  cd py-project/
+  167  ls
+  168  git branch
+  169  ll
+  170  code hello.py 
+  171  git status
+  172  git commit -am "mi primer commit"
+  173  git status
+  174  git add .
+  175  git status
+  176  git commit -m "mi primer commit"
+  177  git branch
+  178  git branch -m main
+  179  git branch
+  180  pwd
+  181  git checkout main
+  182  git log
+  183  ls
+  184  git remote add origin git@github.com:wrojasce1709/curso-python-pip.git
+  185  git remove -v
+  186  git remote -v
+  187  git status
+  188  git push origin main
+  189  git log
+  190  git status
+  191  git commit -am "add files"
+  192  git add .
+  193  git commit -m "add files"
+  194  git push origin main
+  195  ls
+  196  ls
+  197  ls
+  198  cd py-project/
+  199  ls
+  200  code .
+  201  ls
+  202  cd game/
+  203  python3 main.py 
+  204  cd ..
+  205  git status
+  206  git add .
+  207  git commit -m "save game"
+  208  git push origin main
+  209  ls
+  210  code README.md 
+  211  git status
+  212  git commit -am "work in readme"
+  213  git push origin main
+  214  git log
+  215  pip3 -V
+  216  ll
+  217  ls
+  218  ls -al
+  219  ll
+  220  mkdir charts
+  221  cow say "soy juancho"
+  222  sudo apt install  fl-cow
+  223  cow sey juancho
+  224  cow say juancho
+  225  cow say " juancho"
+  226  cow say "juan"
+  227  ls
+  228  cd charts/
+  229  ls
+  230  pip3 install matplotlib
+  231  pip3 freeze
+  232  ls
+  233  python3 main.py 
+  234  python3 main.py 
+  235  ls
+  236  git status
+  237  cd ..
+  238  ls
+  239  git status
+  240  git commit -am "creacion de grafica con libreria matplotlib"
+  241  git add .
+  242  git status
+  243  git commit -am "creacion de grafica con libreria matplotlib"
+  244  git push origin main
+  245  history > codigos09072023
+  246  ls
+  247  cat codigos09072023 
+  248  ls
+  249  cd py-project/
+  250  ls
+  251  ls
+  252  code game/
+  253  code .
+  254  ls
+  255  cd app/
+  256  ls
+  257  python3 main.py 
+  258  python3 main.py 
+  259  ls
+  260  python3 main.py 
+  261  ls
+  262  python3 main.py 
+  263  python3 main.py 
+  264  python3 main.py 
+  265  python3 main.py 
+  266  python3 main.py 
+  267  python3 main.py 
+  268  python3 main.py 
+  269  python3 main.py 
+  270  python3 main.py 
+  271  python3 main.py 
+  272  python3 main.py 
+  273  python3 main.py 
+  274  python3 main.py
+  275  python3 main.py
+  276  git status
+  277  cd ..
+  278  ls
+  279  git status
+  280  ls
+  281  cd app/
+  282  ls
+  283  python3 main.py
+  284  python3 main.py
+  285  python3 main.py
+  286  python3 main.py
+  287  python3 main.py
+  288  python3 main.py
+  289  python3 main.py
+  290  python3 main.py
+  291  code main.py 
+  292  code .
+  293  python3 main.py
+  294  python3 main.py
+  295  code .
+  296  python3 main.py
+  297  ll
+  298  ls
+  299  history > codigo2
